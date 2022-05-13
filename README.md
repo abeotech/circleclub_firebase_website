@@ -1,3 +1,3 @@
 # circleclub_firebase_website
 WIP
-joincircleclub.com to see what it looks like so far.
+Head to https://joincircleclub.com to see what it looks like so far.
